@@ -1,0 +1,42 @@
+VI Cyg 12	|	20 32 40.96	|	+41 14 29.28
+GRS 79.29+0.46	|	20 31 42.28	|	+40 21 59.13
+MWC 314	|	19 21 33.97	|	+14 52 56.89
+[OMN2000] LS1	|	19 23 47.64	|	+14 36 38.4
+2MASS J19325284+1742303	|	19 32 52.85	|	+17 42 30.33
+2MASS J19443759+2419058c	|	19 44 37.60	|	+24 19 05.87
+MN101	|	19 06 24.54	|	+08 22 01.6
+MN107	|	19 24 03.34	|	+13 39 49.4
+P Cyg	|	20 17 47.2	|	+38 01 58.55
+
+Astroplan Stuff:
+Calculated with a moon separation constraint of 40 degrees,
+airmass constraint of 2, from astronomical twilight to midnight at APO
+on the 30th of April.
+
+
+target name        ever observable ... fraction of time observable
+------------------------ --------------- ... ---------------------------
+         VI Cyg 12            True ...          0.2857142857142857
+    GRS 79.29+0.46            True ...          0.2857142857142857
+           MWC 314            True ...         0.42857142857142855
+     [OMN2000] LS1            True ...         0.42857142857142855
+2MASS J19325284+1742303            True ...          0.2857142857142857
+2MASS J19443759+2419058c            True ...         0.42857142857142855
+             MN101            True ...         0.42857142857142855
+             MN107            True ...          0.2857142857142857
+             P Cyg            True ...          0.2857142857142857
+
+You can observe VI Cyg 12 for 1.88 h
+You can observe GRS 79.29+0.46 for 1.88 h
+You can observe MWC 314 for 2.81 h
+You can observe [OMN2000] LS1 for 2.81 h
+You can observe 2MASS J19325284+1742303 for 1.88 h
+You can observe 2MASS J19443759+2419058c for 2.81 h
+You can observe MN101 for 2.81 h
+You can observe MN107 for 1.88 h
+You can observe P Cyg for 1.88 h
+
+Other Notes:
+
+Based on where the moon has been the last few nights, I'd guess that the
+more northern declination ones would probably be preferable.
